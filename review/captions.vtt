@@ -1,0 +1,49 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:04.000
+Build with Accessibility — Android accessibility auditing on your device.
+
+2
+00:00:04.000 --> 00:00:09.000
+Screen access requires explicit consent. The disclosure explains what is read and how it is used.
+
+3
+00:00:09.000 --> 00:00:28.000
+Enable Build with Accessibility in Android Accessibility settings.
+
+4
+00:00:28.000 --> 00:00:33.000
+Android displays its own access confirmation and shortcut instructions.
+
+5
+00:00:33.000 --> 00:00:39.000
+The floating capture button is optional. Other capture controls are also available.
+
+6
+00:00:39.000 --> 00:00:47.000
+Open the synthetic fixture and tap the logo button to capture the current screen.
+
+7
+00:00:47.000 --> 00:00:54.000
+Review the evidence and approximate reading-order prediction. Actual TalkBack testing remains necessary.
+
+8
+00:00:54.000 --> 00:01:03.000
+Captured conditions accompany findings. Missing accessible names are flagged with confidence and severity.
+
+9
+00:01:03.000 --> 00:01:07.000
+The finding detail highlights the affected control in the captured screen.
+
+10
+00:01:07.000 --> 00:01:11.000
+Use the manual checklist to record tests that automation cannot complete.
+
+11
+00:01:11.000 --> 00:01:15.000
+Sessions keep captures, review notes and outcomes together.
+
+12
+00:01:15.000 --> 00:01:18.500
+Keyboard focus is visibly outlined. Audits stay on the device until the user exports them.
