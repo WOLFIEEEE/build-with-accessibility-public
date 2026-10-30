@@ -1,49 +1,57 @@
 WEBVTT
 
 1
-00:00:00.000 --> 00:00:04.000
-Build with Accessibility — Android accessibility auditing on your device.
+00:00:00.000 --> 00:00:08.000
+Build with Accessibility: opening the signed Android 1.0.0 release.
 
 2
-00:00:04.000 --> 00:00:09.000
-Screen access requires explicit consent. The disclosure explains what is read and how it is used.
+00:00:08.000 --> 00:00:22.000
+The full disclosure explains screen content, screenshots, local storage, and auditing. Continue is disabled until consent.
 
 3
-00:00:09.000 --> 00:00:28.000
-Enable Build with Accessibility in Android Accessibility settings.
+00:00:22.000 --> 00:00:27.000
+Choose Not now. The auditor opens with screen access disabled.
 
 4
-00:00:28.000 --> 00:00:33.000
-Android displays its own access confirmation and shortcut instructions.
+00:00:27.000 --> 00:00:32.000
+Open Accessibility settings returns to the disclosure. Consent is still unchecked.
 
 5
-00:00:33.000 --> 00:00:39.000
-The floating capture button is optional. Other capture controls are also available.
+00:00:32.000 --> 00:00:54.000
+Agree to screen access, then open Android Accessibility settings and select Build with Accessibility.
 
 6
-00:00:39.000 --> 00:00:47.000
-Open the synthetic fixture and tap the logo button to capture the current screen.
+00:00:54.000 --> 00:01:01.000
+Android asks for confirmation before enabling the accessibility service.
 
 7
-00:00:47.000 --> 00:00:54.000
-Review the evidence and approximate reading-order prediction. Actual TalkBack testing remains necessary.
+00:01:01.000 --> 00:01:14.000
+Choose the optional floating capture control, then open a synthetic test screen and trigger a capture.
 
 8
-00:00:54.000 --> 00:01:03.000
-Captured conditions accompany findings. Missing accessible names are flagged with confidence and severity.
+00:01:14.000 --> 00:01:21.000
+The service captures screen evidence and runs accessibility checks locally.
 
 9
-00:01:03.000 --> 00:01:07.000
-The finding detail highlights the affected control in the captured screen.
+00:01:21.000 --> 00:01:29.000
+The predicted reading order is approximate. Actual TalkBack testing remains necessary.
 
 10
-00:01:07.000 --> 00:01:11.000
-Use the manual checklist to record tests that automation cannot complete.
+00:01:29.000 --> 00:01:37.000
+Review captured conditions and findings with confidence, severity, and fix guidance.
 
 11
-00:01:11.000 --> 00:01:15.000
-Sessions keep captures, review notes and outcomes together.
+00:01:37.000 --> 00:01:44.000
+Finding details identify the affected control in the captured screen.
 
 12
-00:01:15.000 --> 00:01:18.500
+00:01:44.000 --> 00:01:50.000
+Use the manual checklist for tests that automation cannot complete.
+
+13
+00:01:50.000 --> 00:01:54.000
+Saved sessions keep audit captures and results together.
+
+14
+00:01:54.000 --> 00:01:59.200
 Keyboard focus is visibly outlined. Audits stay on the device until the user exports them.
